@@ -62,6 +62,16 @@ footer {
     padding: 1em;
 }
 
+/* positioning styles start here */
+
+.test-align-center{
+    text-align:center;
+}
+
+
+
+/* positioning styles end here */
+
 /* Responsive rules */
 
 /* DESKTOP */
